@@ -50,6 +50,4 @@ Aspiring Full Stack Developer passionate about building scalable and user-friend
 
 </div>
 
-#
 
-![footer](WEBP/footer.webp)
