@@ -9,10 +9,8 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝,𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
@@ -146,148 +144,10 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 14.2 MB Used in GitHub's Storage 
- > 
-> 🏆 319 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 208 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                17130 commits       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-🌆 Daytime                26236 commits       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌃 Evening                33081 commits       █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌙 Night                  18152 commits       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   13185 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  13260 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Wednesday                13403 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 13190 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   13230 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 13773 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Sunday                   14558 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    17 hrs 59 mins      █████████████████████████   98.63 % 
-Protocol Buffer          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Chrome                   18 hrs 14 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-golang-unit-tests        9 hrs 53 mins       ██████████████░░░░░░░░░░░   54.26 % 
-mvw-dpex-rgs             8 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.37 % 
-JayantGoel001.github.io  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-linkedin-skill-assessment0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-PACHECOproductions.github0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Windows                  16 hrs 21 mins      ██████████████████████░░░   89.71 % 
-Mac                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-C++                      20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
 
 
 
 
- Last Updated on 31/01/2025 02:34:23 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
-
-<h1>
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px"/>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
-</p>
-
-<br/>
-<br/>
-
-<div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
