@@ -2,8 +2,10 @@
 Aspiring Full Stack Developer passionate about building scalable and user-friendly web applications. Proficient in Java, Spring Boot, React.js, JavaScript, and Python, with hands-on experience in DevOps tools like Docker, Jenkins, and AWS. Constantly improving my problem-solving skills through competitive programming.
 
 ## 💼 Experience
-  🔹 Full Stack Web Developer Intern – OctaNet Software Services  
+  🔹 React Developer Intern – AutoMart Nashik
   🔹 Web Developer Intern – Paarsh Infotech Pvt. Ltd  
+  🔹 Full Stack Web Developer Intern – OctaNet Software Services  
+  
 
 ## 🔨 Technical Skills
   ✔ **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js  
