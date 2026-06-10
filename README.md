@@ -8,10 +8,11 @@ Aspiring Full Stack Developer passionate about building scalable and user-friend
   
 
 ## 🔨 Technical Skills
-  ✔ **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js  
-  ✔ **Backend:** Java, Spring Boot, Python, C++  
-  ✔ **Databases:** MySQL, MongoDB, NoSQL  
-  ✔ **DevOps & Tools:** Linux, Docker, Jenkins, AWS, GitHub  
+ ✔ Frontend: HTML, CSS, JavaScript, Bootstrap, React.js
+ ✔ Backend: Java, Spring Boot, Python, C++
+ ✔ Databases: MySQL, MongoDB, NoSQL
+ ✔ Networking: OSI Model, TCP/IP, IP Addressing, Subnetting, Routing, Switching, DNS, DHCP, VLANs, NAT, VPN, Network Security
+ ✔ DevOps & Tools: Linux, Docker, Jenkins, AWS, GitHub
 
 ## 🏆 Notable Projects
   🔹 **Gym Management System** – ASP.NET, Selenium, MySQL  
